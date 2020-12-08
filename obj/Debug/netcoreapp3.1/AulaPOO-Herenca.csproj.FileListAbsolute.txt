@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\bin\Debug\netcoreapp3.1\AulaPOO-Herenca.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\bin\Debug\netcoreapp3.1\AulaPOO-Herenca.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\bin\Debug\netcoreapp3.1\AulaPOO-Herenca.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\bin\Debug\netcoreapp3.1\AulaPOO-Herenca.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\bin\Debug\netcoreapp3.1\AulaPOO-Herenca.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\bin\Debug\netcoreapp3.1\AulaPOO-Herenca.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Herança POO\AulaPOO-Herenca\obj\Debug\netcoreapp3.1\AulaPOO-Herenca.genruntimeconfig.cache
